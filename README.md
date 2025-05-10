@@ -33,12 +33,21 @@ This project applies **big data analysis and visualization** techniques using **
 - CSV output and visualization generated locally.
 
 ## 📦 Repository Structure
-
-
+Assignment Paper : Academic research file
+Dataset and Prepocessing : accident_data_set with preprocessed file, original file, preprocessing script
+ML model python : python script of machine learning model
+pyspark : spark script and dataset
+Refrence research paper : list of similar research paper
+Screen shot of vizilization : all images takes as refrence
+Train and test : split of datafile and python scrit to split data
+Viz_Python_file : python code for visualization 
 
 
 ## 📷 Sample Visualization
 
+![Viz_8](https://github.com/user-attachments/assets/244f5732-fd27-41d9-b37d-f2bb9a801e9f)
+![Viz_9](https://github.com/user-attachments/assets/fec5fa05-69cd-4020-a97f-fe645f294461)
+![Viz_5](https://github.com/user-attachments/assets/b4adc96f-7dc6-4ff9-8a1d-4af36a4b8936)
 
 
 ## 🧠 Author
@@ -48,9 +57,6 @@ This project applies **big data analysis and visualization** techniques using **
 Supervisor: Divya Tara Shakya  
 Keele University (The British College)
 May 2025
-
-## 🔗 Live Report Link
-Full report submitted as PDF – includes all steps, analysis, charts, and references.
 
 ## 📃 License
 This project is part of an academic coursework. It is provided for learning and demonstration purposes only.
