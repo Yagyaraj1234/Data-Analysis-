@@ -33,16 +33,30 @@ This project applies **big data analysis and visualization** techniques using **
 - CSV output and visualization generated locally.
 
 ## 📦 Repository Structure
-!!!!!!!!!!! Extract zip fie to get folder stracture !!!!!!!!!!!!!
 
-Assignment Paper : Academic research file
-Dataset and Prepocessing : accident_data_set with preprocessed file, original file, preprocessing script (NOTE : download dataset from original source, i uas unable to upload due to size limitation of free verion of github)
-ML model python : python script of machine learning model
-pyspark : spark script and dataset
-Refrence research paper : list of similar research paper
-Screen shot of vizilization : all images takes as refrence
-Train and test : split of datafile and python scrit to split data ( NOTE: train.csv and test.csv file is also not available due to free verion of gitub limition) 
-Viz_Python_file : python code for visualization 
+> ⚠️ **IMPORTANT:** Extract the ZIP file to view the full folder structure!
+
+- **Assignment Paper**: Academic research document  
+- **Dataset and Preprocessing**:  
+  - `accident_data_set` folder containing:
+    - Original dataset (⚠️ Not included — please download from the original source)
+    - Preprocessed dataset
+    - Preprocessing script  
+  *(NOTE: Dataset not uploaded due to GitHub free version file size limitations)*  
+- **ML Model Python**: Python script for machine learning model
+- **Pyspark**: Spark script and associated dataset
+- **Reference Research Papers**: Collection of similar research papers used for reference
+- **Screenshot of Visualization**: All reference visualization images
+- **Train and Test**:  
+  - Data split into training and testing sets  
+  - Python script used for data splitting  
+  *(NOTE: `train.csv` and `test.csv` files are not included due to GitHub file size limitations)*  
+- **Viz_Python_File**: Python code used for visualization
+
+
+## 📁 Full File Access (Includes Research Paper and All Data)
+
+🔗 [Download Complete Folder from Google Drive](https://drive.google.com/file/d/1c4YOvWxgdvLWu-4XTb2eUmYa5EBK4TEp/view?usp=sharing)
 
 
 ## 📷 Sample Visualization
