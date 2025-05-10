@@ -34,7 +34,7 @@ This project applies **big data analysis and visualization** techniques using **
 
 ## 📦 Repository Structure
 Assignment Paper : Academic research file
-Dataset and Prepocessing : accident_data_set with preprocessed file, original file, preprocessing script
+Dataset and Prepocessing : accident_data_set with preprocessed file, original file, preprocessing script (NOTE : download dataset from original source, i uas unable to upload due to size limitation of free verion of github)
 ML model python : python script of machine learning model
 pyspark : spark script and dataset
 Refrence research paper : list of similar research paper
